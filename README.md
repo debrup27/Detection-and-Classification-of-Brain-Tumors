@@ -68,5 +68,6 @@ Here are some snippets showcasing the project:
 ![Snippet 3](./images/three.png)
 
 ---
+**You can reach out to me at debrupsengupta289@gmail.com or go drop a message at my LinkedIn https://www.linkedin.com/in/debrup-sengupta/**
 
 🌟 **Let’s detect, classify, and save lives! :)**
