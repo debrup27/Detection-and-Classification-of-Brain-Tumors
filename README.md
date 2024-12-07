@@ -1,7 +1,7 @@
 # 🧠 **Detection and Classification of Brain Tumor using CNN**  
 
 ## 📜 **Description**
-Prompt and early detection of brain tumors is a rapidly growing research field in **medical imaging** and **machine learning**. Leveraging **Convolutional Neural Networks (CNN)**, this project aims to classify tumors with a high degree of accuracy, providing early treatment opportunities, saving lives, and contributing to societal welfare.  
+Prompt and early detection of brain tumors is a rapidly growing research field in **medical imaging** and **machine learning**. Leveraging **Convolutional Neural Networks (CNN)**, this project aims to classify tumors with a high degree of accuracy, providing early treatment opportunities, saving lives, and contributing to societal welfare.This project was completed by me earlier this year.
 
 ---
 
