@@ -3,6 +3,7 @@
 ## 📜 **Description**
 Prompt and early detection of brain tumors is a rapidly growing research field in **medical imaging** and **machine learning**. Leveraging **Convolutional Neural Networks (CNN)**, this project aims to classify tumors with a high degree of accuracy, providing early treatment opportunities, saving lives, and contributing to societal welfare.This project was completed by me earlier this year.
 
+**You can reach out to me at debrupsengupta289@gmail.com or go drop a message at my [LinkedIn](https://www.linkedin.com/in/debrup-sengupta/)** 
 ---
 
 ## 📂 **Dataset**
@@ -68,6 +69,6 @@ Here are some snippets showcasing the project:
 ![Snippet 3](./images/three.png)
 
 ---
-**You can reach out to me at debrupsengupta289@gmail.com or go drop a message at my [LinkedIn](https://www.linkedin.com/in/debrup-sengupta/)**
+
 
 🌟 **Let’s detect, classify, and save lives! :)**
