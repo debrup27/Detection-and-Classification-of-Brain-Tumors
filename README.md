@@ -65,7 +65,7 @@ Here are some snippets showcasing the project:
 ![Snippet 2](./images/2.png)
 
 ### 🖼️ **Snippet 3**
-![Snippet 3](./images/t3.png)
+![Snippet 3](./images/3.png)
 
 ---
 
