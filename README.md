@@ -58,9 +58,14 @@ Cancer is a growing challenge affecting millions worldwide, impacting our loved 
 
 Here are some snippets showcasing the project:
 
-| **Image 1** | **Image 2** | **Image 3** |
-|---------------------|---------------------|---------------------|
-| ![Snippet 1](./images/1.png) | ![Snippet 2](./images/2.png) | ![Snippet 3](./images/3.png) |
+### 🖼️ **Snippet 1**
+![Snippet 1](./images/1.png)
+
+### 🖼️ **Snippet 2**
+![Snippet 2](./images/2.png)
+
+### 🖼️ **Snippet 3**
+![Snippet 3](./images/t3.png)
 
 ---
 
