@@ -54,5 +54,14 @@ Cancer is a growing challenge affecting millions worldwide, impacting our loved 
 - Incorporate advanced CNN techniques for even better performance  
 
 ---
+## 📸 **Project Snippets**
+
+Here are some snippets showcasing the project:
+
+| **Image 1** | **Image 2** | **Image 3** |
+|---------------------|---------------------|---------------------|
+| ![Snippet 1](./images/1.png) | ![Snippet 2](./images/2.png) | ![Snippet 3](./images/3.png) |
+
+---
 
 🌟 **Let’s detect, classify, and save lives! :)**
